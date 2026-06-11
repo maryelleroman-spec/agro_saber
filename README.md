@@ -15,24 +15,9 @@ O **AgroSaber é uma plataforma digital educativa voltada para a integração en
 
 ## 🛠️ Tecnologias Utilizadas
 
-> *Nota: Substitua as tecnologias abaixo pelas ferramentas reais utilizadas no desenvolvimento do seu projeto.*
-
 * **Front-end:** HTML5, CSS3, JavaScript (ou React / Vue.js)
 * **Back-end:** Node.js (ou Python / PHP)
 * **Banco de Dados:** PostgreSQL (ou MongoDB)
 * **Estilização:** Tailwind CSS (ou Bootstrap)
 
----
 
-## 📦 Como Executar o Projeto
-
-### Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-* [Git](https://git-scm.com)
-* [Node.js](https://nodejs.org/en/) (caso utilize este ambiente)
-
-### 🔧 Instalação e Configuração
-
-1. Clone este repositório para a sua máquina local:
-   ```bash
-   git clone [https://github.com/seu-usuario/agro-saber.git](https://github.com/seu-usuario/agro-saber.git)
